@@ -106,7 +106,7 @@ Closed-source / restricted. High level only:
 
 | | Project | Stack | Why it is here |
 | :---: | --- | --- | --- |
-| Laptop | **[laptop-price-predictor](https://github.com/AmirArshiaAdiban/laptop-price-predictor)** | Python · scikit-learn | Full ML pipeline: features, split, MAE/RMSE/R² |
+| Laptop | **[Laptop-price-predictor](https://github.com/AmirArshiaAdiban/Laptop-price-predictor)** | Python · XGBoost · sklearn | ML course project: laptop prices from Torob listings |
 | 👁 | **[image-recognition](https://github.com/AmirArshiaAdiban/image-recognition)** | OpenCV · sklearn | HOG + contours → Random Forest |
 | ☎️ | **[voip-asterisk-lab](https://github.com/AmirArshiaAdiban/voip-asterisk-lab)** | Docker · SIP | Two extensions, echo test, reproducible lab |
 | 🕹️ | **[doodle-jump-assembly](https://github.com/AmirArshiaAdiban/doodle-jump-assembly)** | NASM · C | Jump physics in x86-64 assembly |
