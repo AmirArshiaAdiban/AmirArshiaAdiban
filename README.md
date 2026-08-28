@@ -122,4 +122,16 @@ Closed-source / restricted. High level only:
 - Student representative, Computer Engineering, SBU *(2023)*
 - Training: Web Design (Samatek) · Backend (Yekta Net) · Network+ · English at ILI · ICDL
 
+---
+
+## Contribution snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmirArshiaAdiban/AmirArshiaAdiban/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmirArshiaAdiban/AmirArshiaAdiban/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/AmirArshiaAdiban/AmirArshiaAdiban/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer" alt="footer" width="100%" />
