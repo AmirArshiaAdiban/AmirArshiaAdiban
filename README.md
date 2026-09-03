@@ -93,11 +93,9 @@ Closed-source / restricted. High level only:
 
 ## Course & lab projects
 
-**Smart Car** (SBU real-time & embedded, spring 1403) — simulated line follower: line sensors, lights/battery, obstacle brake. C++ · FreeRTOS · Simulink / Tinkercad.  
-Repo is on my account: [smart-car](https://github.com/AmirArshiaAdiban/smart-car)
-
 | Project | Stack | Notes |
 | --- | --- | --- |
+| [smart-car](https://github.com/AmirArshiaAdiban/smart-car) | C++ · FreeRTOS | SBU line follower with [Mahyar Sahraei](https://github.com/Mahyar-Sahraei) |
 | [Laptop-price-predictor](https://github.com/AmirArshiaAdiban/Laptop-price-predictor) | Python | Laptop prices from Torob |
 | [image-recognition](https://github.com/AmirArshiaAdiban/image-recognition) | Python | Image classification lab |
 | [voip-asterisk-lab](https://github.com/AmirArshiaAdiban/voip-asterisk-lab) | VoIP · VM | VoIP lab |
